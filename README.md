@@ -1,7 +1,7 @@
 ## About
-H is a small program which, upon execution, prints the lowercase letter `h` (ASCII character 104).
+I is a small program which, upon execution, prints the lowercase letter `i` (ASCII character 105).
 
 ## Usage
 1.	`make`
-2.	`./h`
+2.	`./i`
 

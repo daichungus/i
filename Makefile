@@ -1,8 +1,8 @@
-CFLAGS = -Wall
+CFLAGS = -Wall -O3
 
-SRCS = h.c
+SRCS = i.c
 OBJS = $(SRCS:.c=.o)
-BIN = h
+BIN = i
 
 
 all: $(BIN)
